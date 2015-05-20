@@ -18,3 +18,5 @@ Tomcat源码研究学习
 	- 进到tomcat目录，执行ant命令：ant ide-eclipse
 	- import eclipse
 - Tomcat启动过程分析
+	- 启动脚本
+	- Bootstrap类中的main方法
